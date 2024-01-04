@@ -1,0 +1,14 @@
+C:\PMS\Debug\POS.MessageBox.dll
+C:\PMS\Debug\POS.MessageBox.pdb
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.frmMsgBox.resources
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.Properties.Resources.resources
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.csproj.GenerateResource.Cache
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.dll.licenses
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.dll
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.pdb
+D:\GOKUL\FTP\Gokul\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.frmMsgBox.resources
+D:\GOKUL\FTP\Gokul\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.Properties.Resources.resources
+D:\GOKUL\FTP\Gokul\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.csproj.GenerateResource.Cache
+D:\GOKUL\FTP\Gokul\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.dll.licenses
+D:\GOKUL\FTP\Gokul\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.dll
+D:\GOKUL\FTP\Gokul\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.pdb

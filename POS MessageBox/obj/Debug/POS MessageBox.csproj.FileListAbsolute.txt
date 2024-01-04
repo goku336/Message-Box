@@ -1,0 +1,14 @@
+C:\PMS\Debug\POS.MessageBox.dll
+C:\PMS\Debug\POS.MessageBox.pdb
+D:\WORKING FOLDER\Non-SIAT_ABSProjects\PMS\POS MessageBox\POS MessageBox\obj\Debug\POS MessageBox.csprojResolveAssemblyReference.cache
+D:\WORKING FOLDER\Non-SIAT_ABSProjects\PMS\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.frmMsgBox.resources
+D:\WORKING FOLDER\Non-SIAT_ABSProjects\PMS\POS MessageBox\POS MessageBox\obj\Debug\POS MessageBox.csproj.GenerateResource.Cache
+D:\WORKING FOLDER\Non-SIAT_ABSProjects\PMS\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.dll.licenses
+D:\WORKING FOLDER\Non-SIAT_ABSProjects\PMS\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.dll
+D:\WORKING FOLDER\Non-SIAT_ABSProjects\PMS\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.pdb
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS MessageBox.csprojResolveAssemblyReference.cache
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.frmMsgBox.resources
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS MessageBox.csproj.GenerateResource.Cache
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.dll.licenses
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.dll
+\\ftpserver\FTPshare\Home\SIJO\POS MessageBox\POS MessageBox\obj\Debug\POS.MessageBox.pdb
